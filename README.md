@@ -40,6 +40,6 @@ Additionally, the README should include instructions on how to view the hosted v
 Access the live version of the project [here](https://sarithateela.github.io/dom-project/dom.html).
 
 
-<img width="1247" alt="Screenshot" src="">
+<img width="1247" alt="Screenshot" src="https://github.com/sarithateela/dom-project/blob/main/Screenshot%202024-05-22%20154836.png">
 ## Additional Notes
 - Feel free to customize the styling of the `<div>` element or add more features to the project as needed.
